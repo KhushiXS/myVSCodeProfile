@@ -1,2 +1,1 @@
-# myVSCodeProfile
-myVSCodeProfile
+Ctrl+Shift+P 后输入import 导入
